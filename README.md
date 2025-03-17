@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engr-sakil&label=Profile%20views&color=0e75b6&style=flat" alt="engr-sakil" /> </p>
 
 
-- 🔭 I’m currently Studying at [Masaryk University](https://www.muni.cz/en)
+- 🔭 I’m currently Studying at [Czech University of Life Sciences Prague]
 
 - 🌱 I’m currently learning **SpringBoot**
 
